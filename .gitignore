@@ -37,3 +37,4 @@ Thumbs.db
 
 # reports result
 **/allure-results
+/build/
